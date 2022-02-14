@@ -24,9 +24,9 @@ Step 6:
 Calling the function and printing the number of words.
 
 ## OUTPUT:
-![](idle_out.png)
-![](text_out.png)
-
+![](abtus.JPG)
+![](home.JPG)
+![](menu.JPG)
 
 ## Result:
 Thus a wire frame is designed for a given website.
